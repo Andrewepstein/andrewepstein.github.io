@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Max's Room!"
 date:   2016-11-03 11:13:06 -0400
 categories: jekyll update
 ---
