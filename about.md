@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Max.  I am five.  It's a good age.  However, now that I'm five, I "have" to go to school.  School isn't great.  Occasionally, I'll complain that I hate school.  My parents don't seem to care about this.  I wonder why.  
+ng your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
